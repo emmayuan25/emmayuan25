@@ -5,3 +5,5 @@
 · I know how to write React, JavaScript, and Tailwind CSS  
 · have experience in backend with Java, MySQL, PHP (unfortunately), and Node.js  
 · used Heroku, AWS Amplify, phpMyAdmin  
+
+#check out emmayuan.com !  
